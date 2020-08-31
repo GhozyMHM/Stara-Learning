@@ -1,0 +1,59 @@
+.navbar{
+    background-color: #00999F;
+}
+
+.nav-link{
+    color: seashell;
+}
+
+.navbar-brand{
+    color: seashell;
+}
+
+.jumbotron{
+	background-color: #00999f !important;
+}
+
+.input-group{
+	width: 650px !important;
+}
+
+.card{
+    min-height: 380px !important; 
+    border-radius: 10px !important;
+    margin-top: 20px;
+    background-color: rgb(159, 211, 199);
+}
+
+.card-body p{ 
+    justify-content: center;
+    align-items: center;
+}
+
+.card-text{
+    margin-bottom: 100px;
+}
+
+.imgs{
+    border-radius: 15px;
+    margin: 7px auto;
+    width: 230px;
+    height: 155px;
+}
+
+.page-footer{
+    margin-top: 50px;
+    background-color: #00999F ;
+    color: seashell;
+}
+
+.tombol{
+    position: absolute !important;
+    bottom: 20px !important;
+}
+
+.line{
+    position: absolute !important;
+    bottom: 20px !important;
+    right: 2px !important;
+}

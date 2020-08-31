@@ -1,0 +1,76 @@
+* {
+    box-sizing: border-box;
+}
+
+.jumbotron{
+	background-color: white !important;
+}
+
+.ruang{
+	color: grey !important;
+	background-color: white !important;
+}
+
+.card{
+    min-height: 350px !important; 
+    border-radius: 10px !important;
+    margin-top: 20px;
+    background-color: rgb(159, 211, 199);
+}
+
+.card-body p{ 
+    justify-content: center;
+    align-items: center;
+}
+
+.card-text{
+    margin-bottom: 100px;
+}
+
+.point{
+    margin-top: 30px;
+}
+
+.btn{
+    margin-top: 30px;
+}
+
+.imgs{
+    border-radius: 15px;
+    margin: 7px auto;
+    width: 230px;
+    height: 155px;
+}
+
+.navbar{
+    background-color: #00999F;
+}
+
+.nav-link{
+    color: seashell;
+}
+
+.navbar-brand{
+    color: seashell;
+}
+
+.page-footer{
+    margin-top: 100px;
+    background-color: #00999F ;
+    color: seashell;
+}
+
+.inputWithIcon input[type=text]{
+    padding-left: 40px;
+}
+
+.inputWithIcon{
+    position: relative;
+}
+
+.inputWithIcon i{
+    position: absolute;
+    left: 6px;
+    top: 22px;
+    padding: 9px 8px;
+}

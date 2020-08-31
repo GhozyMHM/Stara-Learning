@@ -1,0 +1,118 @@
+.content {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.content p {
+    font-weight: 500;
+    font-size: 13px;
+}
+
+.info {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    justify-content: space-around;
+}
+
+.project-card h5 {
+    min-height: 100px;
+}
+
+.card {
+    height: auto !important;
+}
+
+.card-project {
+    min-height: 300px;
+}
+
+.Practice-card {
+    border-radius: .375rem;
+    background-color: #fff;
+    box-shadow: rgba(136, 152, 170, 0.15) 0px 0px 2rem 0px;
+    height: auto;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+.Practice-card h6 {
+    min-height: 80px;
+    margin-top: 20px;
+    font-size: 15px;
+    font-weight: 200;
+}
+
+.Practice-card img {
+    margin: 0 0 20px !important;
+}
+
+.event-card {
+    display: flex;
+    justify-content: space-around;
+}
+
+.event-card .detail {
+    margin: 0 20px;
+}
+
+@media (max-width: 952px) {
+    .card-resp-img img {
+        width: 130px;
+    }
+
+    .card .media img {
+        width: 1200px;
+    }
+
+    .Practice-card img {
+        width: 250px !important;
+    }
+
+    .info {
+        justify-content: space-around;
+        align-items: baseline;
+    }
+
+    .project-card h5 {
+        min-height: 150px;
+        font-size: 19px;
+    }
+
+    .Practice-card {
+        margin-top: 20px;
+    }
+
+    .Practice-card h5 {
+        min-height: 50px;
+        font-size: 25px;
+    }
+
+    .Practice-card h6 {
+        min-height: 150px;
+        margin-top: 20px;
+        font-size: 20px;
+    }
+
+    .event-card {
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .event-card .detail {
+        margin: 15px 0;
+        text-align: center;
+    }
+
+}
+
+@media (max-width: 700px) {
+
+    .card-resp-img img,
+    .Practice-card img {
+        width: 230px !important;
+        height: 150px !important;
+    }
+}

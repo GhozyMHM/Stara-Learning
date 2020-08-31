@@ -1,0 +1,26 @@
+.navbar{
+    background-color: #00999F;
+}
+
+.nav-link{
+    color: seashell;
+}
+
+.nav-link2{
+    color: yellow;
+    margin-right: 20px;
+    margin-left: 10px;
+    font-size: 13px;
+}
+
+.navbar-brand{
+    color: seashell;
+}
+
+
+
+.page-footer{
+    margin-top: 25px;
+    background-color: #00999F ;
+    color: seashell;
+}

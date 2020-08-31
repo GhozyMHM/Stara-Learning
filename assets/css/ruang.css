@@ -1,0 +1,118 @@
+.jumbotron{
+	background-color: white !important;
+}
+
+.ruang{
+	color: grey !important;
+	background-color: white !important;
+}
+
+.input-group{
+	width: 350px !important;
+	position: absolute !important;
+	right: 20px !important;
+}
+
+.form-control{
+	background-color: #AFE4D8 !important;
+	border-radius: 50px !important;
+}
+
+.card{
+    min-height: 350px !important; 
+    border-radius: 10px !important;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: rgb(159, 211, 199);
+}
+
+.card-body p{ 
+    justify-content: center;
+    align-items: center;
+}
+
+.card-text{
+    margin-bottom: 100px;
+}
+
+.img.imgs{
+    margin: 7px 76.5px;
+}
+.imgs{
+    background-size: cover;
+    border-radius: 80px;
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    margin-top: 30px;
+    border: 2px solid white;
+}
+
+.navbar{
+    background-color: #00999F;
+}
+
+.nav-link{
+    color: seashell;
+}
+
+.navbar-brand{
+    color: seashell;
+}
+
+.page-footer{
+    background-color: #00999F ;
+    color: seashell;
+}
+
+.inputWithIcon input[type=text]{
+    padding-left: 40px;
+}
+
+.inputWithIcon{
+    position: relative;
+}
+
+.inputWithIcon i{
+    position: absolute;
+    left: 6px;
+    top: 22px;
+    padding: 9px 8px;
+}
+
+.page-footer{
+    background-color: #00999F ;
+    color: seashell;
+}
+
+.inputWithIcon input[type=text]{
+    padding-left: 40px;
+}
+
+.inputWithIcon{
+    position: relative;
+}
+
+.inputWithIcon i{
+    position: absolute;
+    left: 6px;
+    top: 22px;
+    padding: 9px 8px;
+}
+
+.card_1{
+    background-color: #AFE4D8 !important;
+}
+
+.garis{
+    background-color: black !important;
+}
+
+.ikuti{
+    width: 200px !important: 
+}
+
+.footer{
+    background-color: #00999F ;
+    color: seashell;
+}
